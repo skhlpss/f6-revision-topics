@@ -1,3 +1,3 @@
-# My Awesome Book
+# F6 Math untouched topics
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is teaching material for untouched topics in Math of F6 students.
