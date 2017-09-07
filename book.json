@@ -1,6 +1,6 @@
 {
+	"author": "CyrusN",
   "plugins": [
-  	"page-toc",
   	"katex"
   ],
   "pluginsConfig": {
