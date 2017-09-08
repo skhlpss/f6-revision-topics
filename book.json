@@ -1,12 +1,15 @@
 {
-	"author": "CyrusN",
+  "author": "CyrusN",
   "plugins": [
-  	"katex",
-  	"iframe-resizer"
+    "katex",
+    "responsive-iframes"
   ],
   "pluginsConfig": {
-  	"page-toc": {
-  		"selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3"
-  	}
-	}
+    "page-toc": {
+      "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
 }
