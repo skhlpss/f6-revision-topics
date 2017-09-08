@@ -3,7 +3,7 @@
 <!-- MarkdownTOC depth=2 -->
 
 - [內心 Incenter\(I\)](#incenter)
-- [特色](#feature-incenter)
+- [特色](#feature)
 
 <!-- /MarkdownTOC -->
 
@@ -20,7 +20,7 @@
   style="border:0px;"> </iframe>
 </div>
 
-# 特色{#feature-incenter}
+# 特色{#feature}
 - 三條角平分線的相交點
 - 內接圓的圓心，稱為「內心」
 

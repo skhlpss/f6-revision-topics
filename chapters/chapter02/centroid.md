@@ -3,7 +3,7 @@
 <!-- MarkdownTOC depth=2 -->
 
 - [形心 Centroid\(G\)](#centroid)
-- [特色](#feature-centroid)
+- [特色](#feature)
 
 <!-- /MarkdownTOC -->
 
@@ -20,7 +20,7 @@
   style="border:0px;"> </iframe>
 </div>
 
-# 特色{#feature-centroid}
+# 特色{#feature}
 
 - 三條中線的相交點
 - 各條中線都被形心分成兩段，比例為 $$2:1$$

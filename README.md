@@ -1,3 +1,3 @@
-# F6 Math untouched topics
+# F6 Math Untaught Topics
 
-This book is teaching material for untouched topics in Math of F6 students.
+This book is teaching material for untaught topics in Math for F6 students.
