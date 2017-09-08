@@ -1,7 +1,7 @@
-.iframe-container  {
-	display: none;	
+.iframe-container {
+	display: none !important;	
 }
 
 .iframe-container iframe {
-	display: none;	
+	display: none !important;	
 }

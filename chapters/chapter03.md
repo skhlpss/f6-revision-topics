@@ -4,6 +4,7 @@
 
 - [極坐標](#polor)
 - [極坐標與直角坐標系統的轉換](#convert)
+- [文憑試練習卷題目](#dse-sample)
 
 <!-- /MarkdownTOC -->
 
@@ -32,3 +33,6 @@ $$
 \text{其中} \; r^2=x^2+y^2
 \end{matrix}
 $$
+
+# 文憑試練習卷題目{#dse-sample}
+<img src="/images/chapter03/polar-dse-sample.png" alt="polar-dse-sample">

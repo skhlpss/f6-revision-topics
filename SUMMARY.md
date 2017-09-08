@@ -8,6 +8,7 @@
   - [形心](chapters/chapter02/centroid.md)
   - [外心](chapters/chapter02/circumcenter.md)
   - [垂心](chapters/chapter02/orthocenter.md)
+  - [例題](chapters/chapter02/sample.md)
 * [極座標](chapters/chapter03.md)
 * [近似值](chapters/chapter04.md)
 * [有效數字](chapters/chapter05.md)
