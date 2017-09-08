@@ -21,7 +21,7 @@
 </div>
 
 <div class="hidden-onscreen">
-<img src="./chapter03/polar-coordinate.png" alt="polar-coordinate">
+  <img src="/images/chapter03/polar-coordinate.png" alt="polar-coordinate">
 </div>
 
 # 極坐標與直角坐標系統的轉換{#convert}

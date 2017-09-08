@@ -21,6 +21,10 @@
   style="border:0px;"> </iframe>
 </div>
 
+<div class="hidden-onscreen">
+  <img src="/images/chapter02/circumcenter.png" alt="circumcenter">
+</div>
+
 # 特色{#feature}
 - 三條垂直平分線的相交點
 - $$o$$ 為外接圓的圓心，稱為外心
