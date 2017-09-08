@@ -10,5 +10,5 @@
   - [垂心](chapters/chapter02/orthocenter.md)
 * [極座標](chapters/chapter03.md)
 * [近似值](chapters/chapter04.md)
-* [期望值](chapters/chapter05.md)
-* [有效數字](chapters/chapter06.md)
+* [有效數字](chapters/chapter05.md)
+* [期望值](chapters/chapter06.md)
