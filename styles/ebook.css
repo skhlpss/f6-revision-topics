@@ -1,3 +1,7 @@
 .iframe-container  {
 	display: none;	
 }
+
+.iframe-container iframe {
+	display: none;	
+}

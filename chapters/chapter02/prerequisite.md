@@ -18,3 +18,6 @@
   </iframe>
 </div>
 
+<div class="hidden-onscreen">
+  <img src="/images/chapter02/basic-line.png" alt="basic-line">
+</div>

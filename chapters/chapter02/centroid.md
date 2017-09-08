@@ -20,6 +20,10 @@
   style="border:0px;"> </iframe>
 </div>
 
+<div class="hidden-onscreen">
+  <img src="/images/chapter02/centroid.png" alt="centroid">
+</div>
+
 # 特色{#feature}
 
 - 三條中線的相交點
