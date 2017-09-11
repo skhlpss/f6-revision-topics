@@ -1,3 +1,3 @@
-# F6 Math Untaught Topics
+# 重溫初中部分課題
 
-This book is teaching material for untaught topics in Math for F6 students.
+部分初中課題，於文憑試中經常出現，同學可透過此網頁，重溫這些課題，溫故而知新。加油！

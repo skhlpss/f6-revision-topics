@@ -1,5 +1,6 @@
 {
   "author": "CyrusN",
+  "title": "重溫初中部分課題",
   "plugins": [
     "katex",
     "responsive-iframes",
@@ -12,5 +13,5 @@
     "sectionx": {
       "tag" : "b"
     }
-  }
+ } 
 }

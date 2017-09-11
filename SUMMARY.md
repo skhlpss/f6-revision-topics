@@ -1,5 +1,8 @@
 # Summary
 
+* [簡介](README.md)
+
+---
 * 進制
   - [二進制](chapters/chapter01/binary-decimal.md)
   - [十六進制](chapters/chapter01/hexadecimal.md)
