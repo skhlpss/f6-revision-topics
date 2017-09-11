@@ -5,6 +5,7 @@
 - [垂心 Orthocenter \(H\)](#orthocenter)
 - [特色](#feature)
 - [求垂心的方法](#find-orthocenter)
+- [延伸閱讀](#supplement)
 
 <!-- /MarkdownTOC -->
 
@@ -42,3 +43,6 @@ $$
 $$
 
 設垂心的坐標為 $${h, k}$$，利用以上其中兩條公式，建立聯立方程，解方程後可得垂的的坐標。
+
+# 延伸閱讀{#supplement}
+- [求垂心 (Orthocentre)坐標的方法 - 學校沒有教的數學](http://mathseasy.hk/articles/finding-orthocentre/)

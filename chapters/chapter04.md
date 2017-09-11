@@ -4,6 +4,7 @@
 
 - [常見詞彙](#glossary)
 - [文憑試樣本試卷 Paper2 Q15](#dse-sp-paper2-15)
+- [延伸閱讀](#supplement)
 
 <!-- /MarkdownTOC -->
 
@@ -31,3 +32,10 @@
 
 # 文憑試樣本試卷 Paper2 Q15 {#dse-sp-paper2-15}
 <img src="/images/chapter04/dse-sp-paper2-15.png" alt="dse-sp-paper2-15">
+
+# 延伸閱讀{#supplement}
+- [三角形四心筆記 - 學校沒有教的數學](http://mathseasy.hk/articles/triangle_centres_notes/)
+  
+<div class="iframe-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3amJCnLLzM4" frameborder="0" allowfullscreen></iframe>
+</div>

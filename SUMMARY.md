@@ -3,6 +3,7 @@
 * 進制
   - [二進制](chapters/chapter01/binary-decimal.md)
   - [十六進制](chapters/chapter01/hexadecimal.md)
+  - [延伸閱讀](chapters/chapter01/supplement.md)
 * [三角形四心](chapters/chapter02/prerequisite.md)
   - [內心](chapters/chapter02/incenter.md)
   - [形心](chapters/chapter02/centroid.md)
@@ -12,3 +13,7 @@
 * [極座標](chapters/chapter03.md)
 * [近似值](chapters/chapter04.md)
 * [期望值](chapters/chapter05.md)
+
+---
+* 參考資料
+  - [學校沒有教的數學](http://mathseasy.hk/)

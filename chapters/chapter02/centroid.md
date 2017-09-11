@@ -4,6 +4,7 @@
 
 - [形心 Centroid\(G\)](#centroid)
 - [特色](#feature)
+- [延伸閱讀](#supplement)
 
 <!-- /MarkdownTOC -->
 
@@ -32,3 +33,6 @@
 $$
 \text{形心坐標} = \left( \frac{x_A + x_B + x_C}{3}, \frac{y_A + y_B + y_C}{3} \right)
 $$
+
+# 延伸閱讀{#supplement}
+- [求形心 (Centroid)坐標的方法 - 學校沒有教的數學](http://mathseasy.hk/articles/finding-centroid/)

@@ -5,6 +5,7 @@
 - [極坐標](#polor)
 - [極坐標與直角坐標系統的轉換](#convert)
 - [文憑試練習卷 Paper1 Q6](#dse-pp-paper1-06)
+- [延伸閱讀](#supplement)
 
 <!-- /MarkdownTOC -->
 
@@ -36,3 +37,11 @@ $$
 
 # 文憑試練習卷 Paper1 Q6 {#dse-pp-paper1-06}
 <img src="/images/chapter03/dse-pp-paper1-06.png" alt="dse-pp-paper1-06">
+
+# 延伸閱讀{#supplement}
+- [文憑試實戰篇#2 Polar Coordinates 極坐標 - 學校沒有教的數學](http://mathseasy.hk/articles/hkdse-practical-002/)
+- [在極坐標系 Polar Coordinate System 求兩點之距離 - 學校沒有教的數學](http://mathseasy.hk/articles/polar-distance/)
+
+<div class="iframe-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FeV_uB9-XJI" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -21,3 +21,10 @@
 <div class="hidden-onscreen">
   <img src="/images/chapter02/basic-line.png" alt="basic-line">
 </div>
+
+# 延伸閱讀{#supplement}
+- [三角形四心筆記 - 學校沒有教的數學](http://mathseasy.hk/articles/triangle_centres_notes/)
+
+<div class="iframe-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/A2BeZrLKqPI" frameborder="0" allowfullscreen></iframe>
+</div>

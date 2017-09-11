@@ -5,6 +5,7 @@
 - [外心 Circumcenter \(O\)](#circumcenter)
 - [特色](#feature)
 - [求外心](#find-center)
+- [# 延伸閱讀](#supplement)
 
 <!-- /MarkdownTOC -->
 
@@ -31,3 +32,7 @@
 
 # 求外心{#find-center}
 先求任何兩條垂直平分線的方程，再解聯立方程
+
+# # 延伸閱讀{#supplement}
+- [求外心 (Circumcentre)坐標的方法 - 學校沒有教的數學](http://mathseasy.hk/articles/finding-circumcentre/)
+

@@ -4,6 +4,7 @@
 
 - [內心 Incenter\(I\)](#incenter)
 - [特色](#feature)
+- [延伸閱讀](#supplement)
 
 <!-- /MarkdownTOC -->
 
@@ -36,3 +37,5 @@ $$
 \text{三角形面積} = r\cdot\frac{a+b+c}{2}
 $$
 
+# 延伸閱讀{#supplement}
+- [求內心 (Incentre)坐標的方法 - 學校沒有教的數學](http://mathseasy.hk/articles/finding-incentre/)

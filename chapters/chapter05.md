@@ -4,6 +4,7 @@
 - [期望值的計算方法](#formula)
 - [例 1](#example1)
 - [例 2](#example2)
+- [延伸閱讀](#supplement)
 
 <!-- /MarkdownTOC -->
 
@@ -44,3 +45,10 @@ $$\therefore$$ 期望值 = 3
 ***意思是：*** 長遠來說，你每玩一局，平均每一局可獲取3分
 
 <!-- endsec -->
+
+# 延伸閱讀{#supplement}
+- [期望值 Expected Value 的含義 - 學校沒有教的數學](http://mathseasy.hk/articles/expected-value/)
+
+<div class="iframe-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/992nu7SJQQY" frameborder="0" allowfullscreen></iframe>
+</div>
