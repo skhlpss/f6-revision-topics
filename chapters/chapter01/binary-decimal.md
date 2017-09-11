@@ -48,6 +48,7 @@
 
 
 ## 例2: 如何將29化成二進數？{#eg2}
+<!--sec data-title="題解" data-id="eg2ans" data-show=true data-collapse=true ces-->
 
 ### Step 1
 [參考例一](#eg1)
@@ -68,6 +69,8 @@
 | 1               | 1              | 1             | 0             | 1              |
 
 因此 29 的二進數為 $$11101_2$$
+
+<!--endsec-->
 
 ---
 # 由二進數到十進數{#session2}
@@ -97,6 +100,9 @@ $$ 32 + 16 + 4 + 2 + 1  = 55 $$
 
 ---
 ## 例4: 如何將10101化成十進數?{#eg4}
+
+<!--sec data-title="題解" data-id="eg4ans" data-show=true data-collapse=true ces-->
+
 [參考例3](#eg3)
 
 將各數位的數字寫入下表
@@ -108,3 +114,5 @@ $$ 32 + 16 + 4 + 2 + 1  = 55 $$
 因此，$$10101_2$$ 的十進數為
 
 $$ 16 + 4 + 1  = 21 $$
+
+<!--endsec-->

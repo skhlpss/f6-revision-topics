@@ -4,7 +4,7 @@
 
 - [極坐標](#polor)
 - [極坐標與直角坐標系統的轉換](#convert)
-- [文憑試練習卷題目](#dse-sample)
+- [文憑試練習卷 Paper1 Q6](#dse-pp-paper1-06)
 
 <!-- /MarkdownTOC -->
 
@@ -34,5 +34,5 @@ $$
 \end{matrix}
 $$
 
-# 文憑試練習卷題目{#dse-sample}
-<img src="/images/chapter03/polar-dse-sample.png" alt="polar-dse-sample">
+# 文憑試練習卷 Paper1 Q6 {#dse-pp-paper1-06}
+<img src="/images/chapter03/dse-pp-paper1-06.png" alt="dse-pp-paper1-06">

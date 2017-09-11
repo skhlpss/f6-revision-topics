@@ -8,6 +8,7 @@
 - [由十六進數到十進數](#session02)
   - [例3: 如何將 $$2A7C_{16}$$ 化成十進數?](#eg3)
   - [例4: 如何將 $$DAB_{16}$$ 化成十進數?](#eg4)
+- [文憑試練習卷 Paper2 Q32](#dse-pp-paper2-32)
 
 <!-- /MarkdownTOC -->
 
@@ -83,6 +84,8 @@
 因此，1234 的十六進數為 $$4D2_{16}$$
 
 ## 例2: 如何將 689 化為十六進數{#eg2}
+
+<!--sec data-title="題解" data-id="eg2ans" data-show=true data-collapse=true ces-->
 [可先參考 step 1](#step-1)
 
 *減去次方數*
@@ -111,6 +114,8 @@
 | 2              | B             | 1             |
 
 因此，689 的十六進數為 $$2B1_{16}$$
+
+<!-- endsec -->
 
 # 由十六進數到十進數{#session02}
 
@@ -143,6 +148,8 @@ $$
 所以 $$2A7C_{16}$$ 的十進數是 $$10876$$
 
 ## 例4: 如何將 $$DAB_{16}$$ 化成十進數?{#eg4}
+
+<!--sec data-title="題解" data-id="eg4ans" data-show=true data-collapse=true ces-->
 ### Step 1:  [參考例3](#step-1-1)
 
 ### Step 2 將各數位的數字寫入下表
@@ -161,3 +168,7 @@ DAB_{16} &= 13\cdot 256 + 10\cdot 16 + 11 \cdot 1 \\
 $$
 
 所以 $$DAB_{16}$$ 的十進數是 $$3499$$
+<!-- endsec -->
+
+# 文憑試練習卷 Paper2 Q32 {#dse-pp-paper2-32}
+<img src="/images/chapter01/dse-pp-paper2-32.png" alt="dse-pp-paper2-32">
